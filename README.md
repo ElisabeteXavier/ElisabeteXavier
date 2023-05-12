@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 ###  
-<div style ="padding-top: 10px">
+<div style ="padding-top: 10px padding-bottom: 10px">
 <a href="https://www.linkedin.com/in/elisabete-x-491913125/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.instagram.com/_betinx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
