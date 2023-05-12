@@ -21,18 +21,17 @@ Here are some ideas to get you started:
   <img align="center" alt="Lis-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Lis-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     <img align="center" alt="Lis-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  
-  
-
-</div>
+  </div>
 
 ###  
-<div style="padding-top: 10px padding-bottom: 10px">
+<div style="padding-top: 100px">
 <a href="https://www.linkedin.com/in/elisabete-x-491913125/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.instagram.com/_betinx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
  
-
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElisabeteXavier&show_icons=true&theme=bear)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisabeteXavier&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+ ### 
+ <div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ElisabeteXavier&show_icons=true&theme=dracula"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisabeteXavier&hide_progress=true&theme=dracula"/>
+</div>
+ 
