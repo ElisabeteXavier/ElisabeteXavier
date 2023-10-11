@@ -35,7 +35,11 @@ Here are some ideas to get you started:
  
  ### 
  <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ElisabeteXavier&show_icons=true&theme=dracula"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisabeteXavier&hide_progress=true&theme=dracula"/>
+<!--   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ElisabeteXavier&show_icons=true&theme=dracula"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisabeteXavier&hide_progress=true&theme=dracula"/> -->
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ElisabeteXavier&show_icons=true&theme=tokyonight#gh-light-mode-only"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisabeteXavier&layout=compact&theme=tokyonight#gh-light-mode-only"/>
+    
 </div>
+
  
